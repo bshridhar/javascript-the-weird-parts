@@ -1,3 +1,5 @@
+'use strict'
+
 function Person(firstname, lastname) {
     console.log(this);
     this.firstname = firstname;

@@ -24,9 +24,3 @@ console.log(greeting);
 
 
 
-
-
-
-
-
-
